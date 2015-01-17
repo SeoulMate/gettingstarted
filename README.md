@@ -1,2 +1,2 @@
-# gettingstarted
-Seoul Mate is a diverse community - comprising of students, teachers, residents, travelers, and more. Our purpose is to provide information about Korean language, jobs, internships, scholarships and everyday life in South Korea.
+# Getting Started
+Seoul Mate is a diverse community - comprising of students, teachers, residents, travelers, and more. Our purpose is to provide information about Korean language, jobs, internships, scholarships and everyday life in South Korea. The 200+ people community enrich the social, cultural and educational experience of both the people who are living in Korea and abroad, influence the international students communities, and enhance the overall diversity in South Korea. Until today, we have expanded our network to reach out to communities in Brazil, Ecuador, USA, Morocco, Spain, Poland and Egypt.
